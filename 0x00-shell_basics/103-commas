@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la *dirs
+ls -xamp
